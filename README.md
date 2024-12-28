@@ -13,4 +13,4 @@ GPT retornou letra conforme solicitado, referente à reflexão da obra o problem
 https://suno.com/song/3bc132e5-3b24-4218-b685-f1b7a0d4ceef
 
 ## 💭 Reflexão (Opcional)
-No momento detalhes específicos ainda não são possíveis no modelo atual(v4) do Suno, como solicitar uma voz específica ou no estilo de um artista específico.
+No momento detalhes específicos ainda não são possíveis no modelo atual(v4) do Suno, como solicitar uma voz específica ou no estilo de um artista específico. Apesar disso tanto o instrumental quanto o vocal (em inglês) do modelo já alcaçaram um nível de quase indiferenciabilidade.
