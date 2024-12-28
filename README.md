@@ -4,7 +4,7 @@
 Musica escrita e produzida por IA baseada em prompts para letra e para composição da música
 
 ## 🤖 Tecnologias Utilizadas
-GPT-4o e Suno
+GPT-4o (via app POE) e Suno
 
 ## 🧐 Processo de Criação
 GPT retornou letra conforme solicitado, referente à reflexão da obra o problema dos 3 corpos, que gerou inclusive titulos e nomeou cada seção, a qual foi enviada diretamente para o Suno, que interpretou a letra e entendeu que o nome da seção não se tratava da letra mesmo sendo enviado no campo para letras. O Suno então, após configurar o estilo desejado de música, retorna com o produto final.
